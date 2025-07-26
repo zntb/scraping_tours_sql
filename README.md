@@ -2,3 +2,4 @@
 
 - requests
 - selectorlib
+- python-dotenv
