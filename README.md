@@ -1,0 +1,4 @@
+# Installed packages
+
+- requests
+- selectorlib
